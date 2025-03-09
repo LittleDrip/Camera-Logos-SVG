@@ -1,6 +1,6 @@
 # CameraPhoneBrandsLogosSVG
 
-这个仓库包含了一些常见的相机和手机品牌的SVG格式的logo文件，大部分摘自官方网站，少部分为手动制作，部分文件拥有彩色、黑白共计三种版本。
+这个仓库包含了一些常见的相机、相机镜头以及手机品牌的SVG格式的logo文件，大部分摘自官方网站，少部分为手动制作，部分文件拥有彩色、黑白共计三种版本。
 
 ## 目录
 
@@ -14,7 +14,10 @@
 
 以下是仓库中包含的品牌logo列表：
 
+- 7Artisans 七工匠
+
 - Apple 苹果
+- BRIGHTIN STAR 星耀光影
 - Canon 佳能
 - DJI 大疆
 - Fujifilm 富士
@@ -24,6 +27,7 @@
 - HUAWEI 华为
 - 影石Insta 360
 - IQOO
+- LAOWA 老蛙
 - Leica 徕卡
 - LUMIX 松下
 - meizu 魅族
@@ -33,10 +37,16 @@
 - OSMO ACTION 大疆action
 - PHASEONE 飞思
 - realme 真我
+- Redmi 红米
 - Samsung 三星
+- SIGMA 适马
+- SIRUI 思锐
 - SONY 索尼
 - α 索尼阿尔法
+- TAMRON 腾龙
+- Tokina 图丽
 - vivo
+- VILTROX 唯卓仕
 - Xiaomi 小米
 
 ## Usage
